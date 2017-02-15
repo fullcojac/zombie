@@ -1,0 +1,2036 @@
+fileFormatVersion: 2
+guid: 9f390023f8dd10e40bc3e40732353dbe
+timeCreated: 1486753431
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: LukeYS_0
+    21300002: LukeYS_1
+    21300004: LukeYS_2
+    21300006: LukeYS_3
+    21300008: LukeYS_4
+    21300010: LukeYS_5
+    21300012: LukeYS_6
+    21300014: LukeYS_7
+    21300016: LukeYS_8
+    21300018: LukeYS_9
+    21300020: LukeYS_10
+    21300022: LukeYS_11
+    21300024: LukeYS_12
+    21300026: LukeYS_13
+    21300028: LukeYS_14
+    21300030: LukeYS_15
+    21300032: LukeYS_16
+    21300034: LukeYS_17
+    21300036: LukeYS_18
+    21300038: LukeYS_19
+    21300040: LukeYS_20
+    21300042: LukeYS_21
+    21300044: LukeYS_22
+    21300046: LukeYS_23
+    21300048: LukeYS_24
+    21300050: LukeYS_25
+    21300052: LukeYS_26
+    21300054: LukeYS_27
+    21300056: LukeYS_28
+    21300058: LukeYS_29
+    21300060: LukeYS_30
+    21300062: LukeYS_31
+    21300064: LukeYS_32
+    21300066: LukeYS_33
+    21300068: LukeYS_34
+    21300070: LukeYS_35
+    21300072: LukeYS_36
+    21300074: LukeYS_37
+    21300076: LukeYS_38
+    21300078: LukeYS_39
+    21300080: LukeYS_40
+    21300082: LukeYS_41
+    21300084: LukeYS_42
+    21300086: LukeYS_43
+    21300088: LukeYS_44
+    21300090: LukeYS_45
+    21300092: LukeYS_46
+    21300094: LukeYS_47
+    21300096: LukeYS_48
+    21300098: LukeYS_49
+    21300100: LukeYS_50
+    21300102: LukeYS_51
+    21300104: LukeYS_52
+    21300106: LukeYS_53
+    21300108: LukeYS_54
+    21300110: LukeYS_55
+    21300112: LukeYS_56
+    21300114: LukeYS_57
+    21300116: LukeYS_58
+    21300118: LukeYS_59
+    21300120: LukeYS_60
+    21300122: LukeYS_61
+    21300124: LukeYS_62
+    21300126: LukeYS_63
+    21300128: LukeYS_64
+    21300130: LukeYS_65
+    21300132: LukeYS_66
+    21300134: LukeYS_67
+    21300136: LukeYS_68
+    21300138: LukeYS_69
+    21300140: LukeYS_70
+    21300142: LukeYS_71
+    21300144: LukeYS_72
+    21300146: LukeYS_73
+    21300148: LukeYS_74
+    21300150: LukeYS_75
+    21300152: LukeYS_76
+    21300154: LukeYS_77
+    21300156: LukeYS_78
+    21300158: LukeYS_79
+    21300160: LukeYS_80
+    21300162: LukeYS_81
+    21300164: LukeYS_82
+    21300166: LukeYS_83
+    21300168: LukeYS_84
+    21300170: LukeYS_85
+    21300172: LukeYS_86
+    21300174: LukeYS_87
+    21300176: LukeYS_88
+    21300178: LukeYS_89
+    21300180: LukeYS_90
+    21300182: LukeYS_91
+    21300184: LukeYS_92
+    21300186: LukeYS_93
+    21300188: LukeYS_94
+    21300190: LukeYS_95
+    21300192: LukeYS_96
+    21300194: LukeYS_97
+    21300196: LukeYS_98
+    21300198: LukeYS_99
+    21300200: LukeYS_100
+    21300202: LukeYS_101
+    21300204: LukeYS_102
+    21300206: LukeYS_103
+    21300208: LukeYS_104
+    21300210: LukeYS_105
+    21300212: LukeYS_106
+    21300214: LukeYS_107
+    21300216: LukeYS_108
+    21300218: LukeYS_109
+    21300220: LukeYS_110
+    21300222: LukeYS_111
+    21300224: LukeYS_112
+    21300226: LukeYS_113
+    21300228: LukeYS_114
+    21300230: LukeYS_115
+    21300232: LukeYS_116
+    21300234: LukeYS_117
+    21300236: LukeYS_118
+    21300238: LukeYS_119
+    21300240: LukeYS_120
+    21300242: LukeYS_121
+    21300244: LukeYS_122
+    21300246: LukeYS_123
+    21300248: LukeYS_124
+    21300250: LukeYS_125
+    21300252: LukeYS_126
+    21300254: LukeYS_127
+    21300256: LukeYS_128
+    21300258: LukeYS_129
+    21300260: LukeYS_130
+    21300262: LukeYS_131
+    21300264: LukeYS_132
+    21300266: LukeYS_133
+    21300268: LukeYS_134
+    21300270: LukeYS_135
+    21300272: LukeYS_136
+    21300274: LukeYS_137
+    21300276: LukeYS_138
+    21300278: LukeYS_139
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LukeYS_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 318
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 315
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_2
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 309
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_3
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 309
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 309
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_5
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 309
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_6
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 286
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_7
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 283
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_8
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 286
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_9
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 309
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_10
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 285
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_11
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 285
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_12
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 265
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_13
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 265
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_14
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 265
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_15
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 265
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_16
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 254
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_17
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 229
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_18
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 229
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_19
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 229
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_20
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 229
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_21
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 209
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_22
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 209
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_23
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 209
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_24
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 209
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_25
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 209
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_26
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 209
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_27
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 225
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_28
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 231
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_29
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 231
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_30
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 231
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_31
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 231
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_32
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 231
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_33
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 231
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_34
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 231
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_35
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 231
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_36
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 231
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_37
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 231
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_38
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 231
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 173
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_40
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 174
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_41
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 173
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_42
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 175
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_43
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 175
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_44
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 175
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_45
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 185
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_46
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 185
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_47
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 185
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_48
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 187
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_49
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 165
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_50
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 163
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_51
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 167
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_52
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 190
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_53
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 123
+        width: 65
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_54
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 122
+        width: 65
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_55
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 125
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_56
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 150
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_57
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 150
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_58
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 150
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_59
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 150
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_60
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 65
+        width: 46
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_61
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 106
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_62
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 94
+        width: 28
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_63
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 128
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_64
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 128
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_65
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 128
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_66
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 128
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_67
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 128
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_68
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_69
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 128
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_70
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 128
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_71
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 128
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_72
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 128
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_73
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 128
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_74
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 106
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_75
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 78
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_76
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 99
+        width: 22
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 2, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_77
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 58
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_78
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 79
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_79
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 87
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_80
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 95
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_81
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 94
+        width: 5
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_82
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 93
+        width: 5
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_83
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 91
+        width: 6
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_84
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 109
+        width: 23
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_85
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 96
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_86
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 104
+        width: 19
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_87
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 99
+        width: 17
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_88
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 95
+        width: 15
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_89
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 90
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_90
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 90
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_91
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 89
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_92
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 51
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_93
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 71
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_94
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 57
+        width: 6
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_95
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 59
+        width: 5
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_96
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 60
+        width: 5
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_97
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 61
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_98
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 62
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_99
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 53
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_100
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 56
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_101
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 52
+        width: 4
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_102
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 65
+        width: 15
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_103
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 60
+        width: 17
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_104
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 34
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_105
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 55
+        width: 19
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_106
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 49
+        width: 23
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_107
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 23
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_108
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 35
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_109
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 35
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_110
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 35
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_111
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 35
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_112
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 35
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_113
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 35
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_114
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 17
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_115
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 17
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_116
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 17
+        width: 28
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4830075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_117
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 17
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_118
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 17
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_119
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 17
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_120
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 32
+        width: 89
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_121
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 8
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_122
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 16
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_123
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 6
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_124
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 6
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_125
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 6
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_126
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 6
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_127
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 3
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_128
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 3
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_129
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 3
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_130
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 3
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_131
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 3
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_132
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 3
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_133
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 3
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_134
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 3
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_135
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 0
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_136
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 0
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_137
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 64
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 3, y: 0, z: 4, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_138
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 94
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 3, y: 0, z: 0, w: 2}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LukeYS_139
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 85
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
